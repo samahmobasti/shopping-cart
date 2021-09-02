@@ -1,0 +1,7 @@
+<i class="fa fa-heart" aria-hidden="true"></i>
+<i class="fas fa-search"></i>
+<i class="far fa-heart"></i>
+<i class="fas fa-plus"></i>
+<i class="fas fa-trash-alt"></i>
+<i class="fas fa-bell"></i>
+<i class="fas fa-user-circle"></i>
